@@ -1,2 +1,2 @@
 # PAN-OS Automation Scripts
-Simple PAN-OS Network Automation Scripts
+The Palo Alto Networks operating system (OS) is a platform that provides security and networking services in an enterprise environment. PAN-OS includes a scripting language that allows administrators to automate tasks and customize the OS to their specific needs. Scripts can be run from the command line or from within the Panorama management console. This is a repository of scripts made using the PAN-OS-Python Framework.
